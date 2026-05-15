@@ -9,7 +9,7 @@ const page = async () => {
 
     console.log(await getData())
   return (
-    <div>ok</div>
+    <div>see console for server data</div>
   )
 }
 
